@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saad Furqhan</h1>
+
+
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on **Coding Skills.**
 
 - 🌱 I’m currently learning **Flask, Azure & MERN**
