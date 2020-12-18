@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Saad Furqhan</h1>
 
 
- <img align="right" alt="GIF" src="https://github.com/SaadFurqhan/SaadFurqhan/blob/main/pics/bb%20(2).gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/SaadFurqhan/SaadFurqhan/blob/main/pics/bb%20(2).gif" width="300" height="320" />
 
 - 🔭 I’m currently working on **Coding Skills.**
 
